@@ -7,12 +7,12 @@ published-at = "0xd34b56feab8ec4e31e32b30564e1d6b11eb32f2985c3fbb85b5be715df0065
 git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework/packages/sui-framework"
 # testnet-0.33.0
-rev = "47cdc59b73ecefe51a3db9ed63b9633ad2ef4bb3"
+rev = "e038e62caaabcac4b1f1bd3d64730e0f14c95dd1"
 
 [dependencies.Originmate]
 git = "https://github.com/AESETH/originmate.git"
 # devnet-0.33.0
-rev = "e0fda802a62eb37fab1dd826d2adbdd0fbe438ba"
+rev = "4c95d7041c3ef84532ef7dd0dc94e8791d29411f"
 
 [dependencies.Permissions]
 local = "./../permissions"
