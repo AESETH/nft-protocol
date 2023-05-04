@@ -16,7 +16,7 @@ source = { git = "https://github.com/MystenLabs/sui.git", rev = "47cdc59b73ecefe
 
 [[move.package]]
 name = "Originmate"
-source = { git = "https://github.com/Origin-Byte/originmate.git", rev = "ee5462b4168d3da8b5d83041002ab6280a189e60", subdir = "" }
+source = { git = "https://github.com/AESETH/originmate.git", rev = "e0fda802a62eb37fab1dd826d2adbdd0fbe438ba", subdir = "" }
 
 dependencies = [
   { name = "Sui" },

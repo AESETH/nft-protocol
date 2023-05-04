@@ -10,9 +10,9 @@ subdir = "crates/sui-framework/packages/sui-framework"
 rev = "47cdc59b73ecefe51a3db9ed63b9633ad2ef4bb3"
 
 [dependencies.Originmate]
-git = "https://github.com/Origin-Byte/originmate.git"
+git = "https://github.com/AESETH/originmate.git"
 # devnet-0.33.0
-rev = "ee5462b4168d3da8b5d83041002ab6280a189e60"
+rev = "e0fda802a62eb37fab1dd826d2adbdd0fbe438ba"
 
 [dependencies.Permissions]
 local = "./../permissions"
