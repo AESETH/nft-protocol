@@ -35,7 +35,7 @@ dependencies = [
 
 [[move.package]]
 name = "Originmate"
-source = { git = "https://github.com/Origin-Byte/originmate.git", rev = "538bc0d65e5df9e8c8fb0ee4ce21da6aa9129394", subdir = "" }
+source = { git = "https://github.com/Origin-Byte/originmate.git", rev = "ee5462b4168d3da8b5d83041002ab6280a189e60", subdir = "" }
 
 dependencies = [
   { name = "Sui" },
