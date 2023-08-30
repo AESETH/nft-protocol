@@ -1,0 +1,57 @@
+https://github.com/marketplace/actions/gitee-pages-action
+'/'
+version: 2
+updates:
+  - package-ecosystem: "Nextjs" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+      
+version: 2
+updates:
+  - package-ecosystem: "npm" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: "precedent" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: "sveltekit" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: ".yml" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: "pnpm-lock.yml" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: "githubactions" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+version: 2
+updates:
+  - package-ecosystem: "#repository" 
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
